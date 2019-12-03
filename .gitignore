@@ -106,6 +106,9 @@ ENV/
 # Notebook files
 Project_Plagiarism_Detection/__MACOSX
 Project_Plagiarism_Detection/data.zip
+Project_Plagiarism_Detection/data.zip.1
+Project_Plagiarism_Detection/data.zip.2
+Project_Plagiarism_Detection/plagiarism_data/
 
 # Cache is not part of the repository
 cache/
